@@ -1,0 +1,10 @@
+Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+
+This repository contains multiple independent utilities. There is no single
+license covering the whole repository.
+
+Each utility is licensed under the terms in the LICENSE file located in its
+own subdirectory. Refer to that file for the license that applies to the
+files in that subdirectory:
+
+  nvidia-display-carveout/LICENSE
